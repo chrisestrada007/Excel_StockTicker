@@ -1,0 +1,7 @@
+StockTicker - 2019
+--------------------------------------
+I used VBA scripting to analyze real stock market data and 
+created a script that loops through each row of data and 
+calculates the total volume of stock sold over the year,
+highest increase, lowest decrease, and highest volume.
+
